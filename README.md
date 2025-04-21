@@ -16,3 +16,7 @@ Typically, the DLL most commonly hooked/unhooked is NTDLL.dll, as it is the clos
 
 ## setup:
 - Run build.bat, it will do everything for you.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
